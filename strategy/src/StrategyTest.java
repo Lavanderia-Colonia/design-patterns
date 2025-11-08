@@ -1,8 +1,7 @@
-import Behavior.Sort.SortBehavior;
 import Sorter.*;
 import java.util.Random;
 
-public class Test {
+public class StrategyTest {
     public static void BubleSorter() {
         int[] array = new int[10];
         Random rnd = new Random();
